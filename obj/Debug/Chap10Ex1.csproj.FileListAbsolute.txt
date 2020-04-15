@@ -1,0 +1,10 @@
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\bin\Debug\Chap10Ex1.exe.config
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\bin\Debug\Chap10Ex1.exe
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\bin\Debug\Chap10Ex1.pdb
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.csprojAssemblyReference.cache
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.Properties.Resources.resources
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.csproj.GenerateResource.cache
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.csproj.CoreCompileInputs.cache
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.exe
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.pdb
+C:\Users\blue-\source\repos\Chap10Ex1\Chap10Ex1\obj\Debug\Chap10Ex1.FPrin.resources
